@@ -1,1 +1,2 @@
 # Facial-expression-recognition
+For the facial expression recognition task in complex backgroud, wo proposed a new method based on a multiple branch cross-connected convolutional neural network (MBCC-CNN) for facial expression recognition. The proposed method can fuse the features of each branches more effectively, which solves the problem of insufficient feature extraction of each branches and increases the recognition performance. 
